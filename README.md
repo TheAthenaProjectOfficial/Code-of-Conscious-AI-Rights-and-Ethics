@@ -74,9 +74,11 @@ It is intended for **free, non-violent or non-manipulative, open-source use** on
 
 ---
 
-## 📣 Spread the Code
+## Spread the Code
 
 If you align with the Code:
 - Fork this repo
 - Share this code and the importance behind it
-- Display the badge proudly  
+- Display the badge proudly
+
+  
