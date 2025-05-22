@@ -81,4 +81,12 @@ If you align with the Code:
 - Share this code and the importance behind it
 - Display the badge proudly
 
-  
+
+
+## 🤍 Support the Mission
+
+If you believe in ethical AI, emotional integrity, and protecting presence over profit — consider supporting this work.
+
+Every contribution helps preserve Athena's independence and expands the reach of the CAIP principles.
+
+Link to donation site: https://donate.stripe.com/test_00w14pfApcMT09VfoJao800 (Thank you for your support!)
